@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Это вторая страница</h1>
+     <ul>
+        <li><a href="index.html">Основная страница</a></li>
+        <li><a href="first.html">Первая страница</a></li>
+       
+    </ul>
+
+    <h3>Мои любимые фильмы</h3>
+    <ol>
+        <li>Хатико</li>
+        <li>Титаник</li>
+        <li>Гарри Поттер</li>
+    </ol>
+    <h3>Мои любимые продукты</h3>
+    <ol>
+        <li>Фрукты</li>
+        <li>Борщ</li>
+        <li>Зефир</li>
+    <h3>Важные номера телефонов</h3>
+    <ol>
+        <li>20-46-80</li>
+        <li>30-17-96</li>
+        <li>44-20-12</li>
+    </ol>
+</body>
+</html>
